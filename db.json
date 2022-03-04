@@ -1,274 +1,183 @@
 {
 "result": [
 {
-"department": "Candidate Manager",
-"fullName": "Aaron Ramsey",
-"iFullName": "Aaron Ramsey",
-"guid": "b3f2910b-2ec2-42db-a8a5-937bd33428e7",
-"phone": "14253698547",
-"cStatus": "Graduate",
-"numberOfDays": 25
+"course": "QA",
+"instructorName": "Aaron Ramsey",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "19",
+"successionPercentage": 75,
+"student": 25
 },
 {
-"department": "Frontdesk",
-"fullName": "Maddi Jane",
-"iFullName": "Maddi Jane",
-"guid": "30c52c9a-95d2-41a1-b696-419bd035b6ac",
-"phone": "14624898547",
-"cStatus": "PreMarketing",
-"numberOfDays": 48
+"course": "Frontend",
+"instructorName": "Maddi Jane",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "09",
+"successionPercentage": 75,
+"student": 48
 },
 {
-"department": "Marketing Manager",
-"fullName": "Leroy Sane",
-"iFullName": "Leroy Sane",
-"guid": "1cb688ce-47fb-4ca6-8d3c-616d0b496a51",
-"phone": "19653698547",
-"cStatus": "PostMarketing",
-"numberOfDays": 36
+"course": "DBA",
+"instructorName": "Leroy Sane",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "03",
+"successionPercentage": 75,
+"student": 36
 },
 {
-"department": "Manager",
-"fullName": "Romeo Lukaku",
-"iFullName": "Romeo Lukaku",
-"guid": "07d8ae33-e430-415b-a052-2f1c6924c986",
-"phone": "13625698547",
-"cStatus": "Graduate",
-"numberOfDays": 86
+"course": "Backend",
+"instructorName": "Romeo Lukaku",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "10",
+"successionPercentage": 75,
+"student": 86
 },
 {
-"department": "Candidate Manager",
-"fullName": "Aaron Ramsey",
-"iFullName": "Aaron Ramsey",
-"guid": "b3f2910b-2ec2-42db-a8a5-937bd33428e7",
-"phone": "14253698547",
-"cStatus": "Graduate",
-"numberOfDays": 25
+"course": "QA",
+"instructorName": "Aaron Ramsey",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "12",
+"successionPercentage": 75,
+"student": 25
 },
 {
-"department": "Frontdesk",
-"fullName": "Maddi Jane",
-"iFullName": "Maddi Jane",
-"guid": "30c52c9a-95d2-41a1-b696-419bd035b6ac",
-"phone": "14624898547",
-"cStatus": "PreMarketing",
-"numberOfDays": 48
+"course": "Frontend",
+"instructorName": "Maddi Jane",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "11",
+"successionPercentage": 75,
+"student": 48
 },
 {
-"department": "Marketing Manager",
-"fullName": "Leroy Sane",
-"iFullName": "Leroy Sane",
-"guid": "1cb688ce-47fb-4ca6-8d3c-616d0b496a51",
-"phone": "19653698547",
-"cStatus": "PostMarketing",
-"numberOfDays": 36
+"course": "Backend",
+"instructorName": "Leroy Sane",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "14",
+"successionPercentage": 75,
+"student": 36
 },
 {
-"department": "Manager",
-"fullName": "Romeo Lukaku",
-"iFullName": "Romeo Lukaku",
-"guid": "07d8ae33-e430-415b-a052-2f1c6924c986",
-"phone": "13625698547",
-"cStatus": "Graduate",
-"numberOfDays": 86
+"course": "Frontend",
+"instructorName": "Romeo Lukaku",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "15",
+"successionPercentage": 75,
+"student": 86
 },
   {
-"department": "Candidate Manager",
-"fullName": "Aaron Ramsey",
-"iFullName": "Aaron Ramsey",
-"guid": "b3f2910b-2ec2-42db-a8a5-937bd33428e7",
-"phone": "14253698547",
-"cStatus": "Graduate",
-"numberOfDays": 25
+"course": "Java",
+"instructorName": "Aaron Ramsey",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "30",
+"successionPercentage": 75,
+"student": 25
 },
 {
-"department": "Frontdesk",
-"fullName": "Maddi Jane",
-"iFullName": "Maddi Jane",
-"guid": "30c52c9a-95d2-41a1-b696-419bd035b6ac",
-"phone": "14624898547",
-"cStatus": "PreMarketing",
-"numberOfDays": 48
+"course": "Java",
+"instructorName": "Maddi Jane",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "16",
+"successionPercentage": 75,
+"student": 48
 },
 {
-"department": "Marketing Manager",
-"fullName": "Leroy Sane",
-"iFullName": "Leroy Sane",
-"guid": "1cb688ce-47fb-4ca6-8d3c-616d0b496a51",
-"phone": "19653698547",
-"cStatus": "PostMarketing",
-"numberOfDays": 36
+"course": "Frontend",
+"instructorName": "Leroy Sane",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "PostMarketing",
+"successionPercentage": 75,
+"student": 36
 },
 {
-"department": "Manager",
-"fullName": "Romeo Lukaku",
-"iFullName": "Romeo Lukaku",
-"guid": "07d8ae33-e430-415b-a052-2f1c6924c986",
-"phone": "13625698547",
-"cStatus": "Graduate",
-"numberOfDays": 86
+"course": "QA",
+"instructorName": "Romeo Lukaku",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "15",
+"successionPercentage": 75,
+"student": 86
 },
   {
-"department": "Candidate Manager",
-"fullName": "Aaron Ramsey",
-"iFullName": "Aaron Ramsey",
-"guid": "b3f2910b-2ec2-42db-a8a5-937bd33428e7",
-"phone": "14253698547",
-"cStatus": "Graduate",
-"numberOfDays": 25
+"course": "Frontend",
+"instructorName": "Aaron Ramsey",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "16",
+"successionPercentage": 75,
+"student": 25
 },
 {
-"department": "Frontdesk",
-"fullName": "Maddi Jane",
-"iFullName": "Maddi Jane",
-"guid": "30c52c9a-95d2-41a1-b696-419bd035b6ac",
-"phone": "14624898547",
-"cStatus": "PreMarketing",
-"numberOfDays": 48
+"course": "Backend",
+"instructorName": "Maddi Jane",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "10",
+"successionPercentage": 75,
+"student": 48
 },
 {
-"department": "Marketing Manager",
-"fullName": "Leroy Sane",
-"iFullName": "Leroy Sane",
-"guid": "1cb688ce-47fb-4ca6-8d3c-616d0b496a51",
-"phone": "19653698547",
-"cStatus": "PostMarketing",
-"numberOfDays": 36
+"course": "Java",
+"instructorName": "Leroy Sane",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "12",
+"student": 36
 },
 {
-"department": "Manager",
-"fullName": "Romeo Lukaku",
-"iFullName": "Romeo Lukaku",
-"guid": "07d8ae33-e430-415b-a052-2f1c6924c986",
-"phone": "13625698547",
-"cStatus": "Graduate",
-"numberOfDays": 86
+"course": "Java",
+"instructorName": "Romeo Lukaku",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "11",
+"successionPercentage": 75,
+"student": 86
 },
   {
-"department": "Candidate Manager",
-"fullName": "Aaron Ramsey",
-"iFullName": "Aaron Ramsey",
-"guid": "b3f2910b-2ec2-42db-a8a5-937bd33428e7",
-"phone": "14253698547",
-"cStatus": "Graduate",
-"numberOfDays": 25
+"course": "QA",
+"instructorName": "Aaron Ramsey",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "12",
+"successionPercentage": 75,
+"student": 25
 },
 {
-"department": "Frontdesk",
-"fullName": "Maddi Jane",
-"iFullName": "Maddi Jane",
-"guid": "30c52c9a-95d2-41a1-b696-419bd035b6ac",
-"phone": "14624898547",
-"cStatus": "PreMarketing",
-"numberOfDays": 48
-},
-{
-"department": "Marketing Manager",
-"fullName": "Leroy Sane",
-"iFullName": "Leroy Sane",
-"guid": "1cb688ce-47fb-4ca6-8d3c-616d0b496a51",
-"phone": "19653698547",
-"cStatus": "PostMarketing",
-"numberOfDays": 36
-},
-{
-"department": "Manager",
-"fullName": "Romeo Lukaku",
-"iFullName": "Romeo Lukaku",
-"guid": "07d8ae33-e430-415b-a052-2f1c6924c986",
-"phone": "13625698547",
-"cStatus": "Graduate",
-"numberOfDays": 86
-},
-  {
-"department": "Candidate Manager",
-"fullName": "Aaron Ramsey",
-"iFullName": "Aaron Ramsey",
-"guid": "b3f2910b-2ec2-42db-a8a5-937bd33428e7",
-"phone": "14253698547",
-"cStatus": "Graduate",
-"numberOfDays": 25
-},
-{
-"department": "Frontdesk",
-"fullName": "Maddi Jane",
-"iFullName": "Maddi Jane",
-"guid": "30c52c9a-95d2-41a1-b696-419bd035b6ac",
-"phone": "14624898547",
-"cStatus": "PreMarketing",
-"numberOfDays": 48
-},
-{
-"department": "Marketing Manager",
-"fullName": "Leroy Sane",
-"iFullName": "Leroy Sane",
-"guid": "1cb688ce-47fb-4ca6-8d3c-616d0b496a51",
-"phone": "19653698547",
-"cStatus": "PostMarketing",
-"numberOfDays": 36
-},
-{
-"department": "Manager",
-"fullName": "Romeo Lukaku",
-"iFullName": "Romeo Lukaku",
-"guid": "07d8ae33-e430-415b-a052-2f1c6924c986",
-"phone": "13625698547",
-"cStatus": "Graduate",
-"numberOfDays": 86
-},
-  {
-"department": "Candidate Manager",
-"fullName": "Aaron Ramsey",
-"iFullName": "Aaron Ramsey",
-"guid": "b3f2910b-2ec2-42db-a8a5-937bd33428e7",
-"phone": "14253698547",
-"cStatus": "Graduate",
-"numberOfDays": 25
-},
-{
-"department": "Frontdesk",
-"fullName": "Maddi Jane",
-"iFullName": "Maddi Jane",
-"guid": "30c52c9a-95d2-41a1-b696-419bd035b6ac",
-"phone": "14624898547",
-"cStatus": "PreMarketing",
-"numberOfDays": 48
-},
-{
-"department": "Marketing Manager",
-"fullName": "Leroy Sane",
-"iFullName": "Leroy Sane",
-"guid": "1cb688ce-47fb-4ca6-8d3c-616d0b496a51",
-"phone": "19653698547",
-"cStatus": "PostMarketing",
-"numberOfDays": 36
-},
-{
-"department": "Manager",
-"fullName": "Romeo Lukaku",
-"iFullName": "Romeo Lukaku",
-"guid": "07d8ae33-e430-415b-a052-2f1c6924c986",
-"phone": "13625698547",
-"cStatus": "Graduate",
-"numberOfDays": 86
-},
-  {
-"department": "Candidate Manager",
-"fullName": "Aaron Ramsey",
-"iFullName": "Aaron Ramsey",
-"guid": "b3f2910b-2ec2-42db-a8a5-937bd33428e7",
-"phone": "14253698547",
-"cStatus": "Graduate",
-"numberOfDays": 25
-},
-{
-"department": "Frontdesk",
-"fullName": "Maddi Jane",
-"iFullName": "Maddi Jane",
-"guid": "30c52c9a-95d2-41a1-b696-419bd035b6ac",
-"phone": "14624898547",
-"cStatus": "PreMarketing",
-"numberOfDays": 48
+"course": "Backend",
+"instructorName": "Maddi Jane",
+"startDate": "2020-07-01T00:00:00",
+"endDate": "2022-02-22T22:31:10.0293815",
+"startTimeEndTime": "12: 00 AM - 1:00 AM",
+"session": "13",
+"successionPercentage": 75,
+"student": 48
 }
 ]
 }
